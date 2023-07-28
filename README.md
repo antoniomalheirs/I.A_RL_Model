@@ -20,7 +20,7 @@
             - #### total_timesteps
                     Amount of times to run (High values can take many hours)
 
-            - #### Local
+            - #### local
                     Directory PATH to write the trained model
 ---
 
